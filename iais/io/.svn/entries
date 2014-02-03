@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn-int.iais.fraunhofer.de/repos/tmusers"
+   revision="8228"
+   last-author="bpratap"
+   url="https://svn-int.iais.fraunhofer.de/repos/tmusers/open/bpratap/MVRNN/iais/io"
+   committed-rev="8228"
+   kind="dir"
+   committed-date="2013-10-18T16:53:59.884000Z"/>
+<entry
+   name="__init__.py"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bpratap"
+   text-time="2013-10-17T13:41:23.000000Z"
+   committed-rev="8228"
+   kind="file"
+   committed-date="2013-10-18T16:53:59.884000Z"/>
+<entry
+   name="read_corpus.py"
+   revision="8279"
+   checksum="c3f3d2ab3a79ee61915798f71fe1abf6"
+   last-author="bpratap"
+   text-time="2013-12-05T12:47:36.000000Z"
+   committed-rev="8279"
+   kind="file"
+   committed-date="2013-12-06T10:44:38.011000Z"/>
+</wc-entries>

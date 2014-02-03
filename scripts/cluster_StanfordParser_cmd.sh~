@@ -1,0 +1,1 @@
+/home/bpratap/jdk1.6.0_33/jre/bin/java -mx10g -cp "ext/stanford-parser-full-2013-11-12/*" edutanford.nlp.parser.lexparser.LexicalizedParser -nthreads 4 -outputFormat "penn" -sentences newline edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz "data/corpus/wiki_sents4.4aa" > "data/corpus/wiki_trees4.4aa"

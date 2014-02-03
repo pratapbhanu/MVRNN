@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn-int.iais.fraunhofer.de/repos/tmusers"
+   name=""
+   revision="8241"
+   last-author="bpratap"
+   url="https://svn-int.iais.fraunhofer.de/repos/tmusers/open/bpratap/MVRNN/iais/optimization"
+   committed-rev="8241"
+   kind="dir"
+   committed-date="2013-10-25T13:30:02.089000Z"/>
+<entry
+   name="__init__.py"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bpratap"
+   committed-rev="8241"
+   text-time="2013-10-24T11:56:20.000000Z"
+   kind="file"
+   committed-date="2013-10-25T13:30:02.089000Z"/>
+<entry
+   name="optimizer.py"
+   revision="8279"
+   checksum="a32c16fbf0d0c579b80771ae671d9f02"
+   last-author="bpratap"
+   text-time="2013-11-19T11:51:38.000000Z"
+   committed-rev="8279"
+   kind="file"
+   committed-date="2013-12-06T10:44:38.011000Z"/>
+</wc-entries>

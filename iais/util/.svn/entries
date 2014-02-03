@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn-int.iais.fraunhofer.de/repos/tmusers"
+   revision="8228"
+   last-author="bpratap"
+   url="https://svn-int.iais.fraunhofer.de/repos/tmusers/open/bpratap/MVRNN/iais/util"
+   committed-rev="8228"
+   kind="dir"
+   committed-date="2013-10-18T16:53:59.884000Z"/>
+<entry
+   name="__init__.py"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bpratap"
+   text-time="2013-10-17T13:39:24.000000Z"
+   committed-rev="8228"
+   kind="file"
+   committed-date="2013-10-18T16:53:59.884000Z"/>
+<entry
+   name="convertStanfordTrees.py"
+   revision="8234"
+   checksum="077374f7abd3bf62c68424387192d32a"
+   last-author="bpratap"
+   committed-rev="8234"
+   text-time="2013-10-21T10:59:02.000000Z"
+   kind="file"
+   committed-date="2013-10-22T13:54:01.590000Z"/>
+<entry
+   name="rnn_tree.py"
+   revision="8232"
+   checksum="988ffb12f91e989d9707a70dd46f57da"
+   last-author="bpratap"
+   text-time="2013-10-19T17:03:08.000000Z"
+   committed-rev="8232"
+   kind="file"
+   committed-date="2013-10-20T17:01:42.220000Z"/>
+<entry
+   name="tokenizer.py"
+   revision="8232"
+   checksum="18fab7c8abb33b98e979db4dafd33568"
+   last-author="bpratap"
+   text-time="2013-07-16T09:42:56.000000Z"
+   committed-rev="8232"
+   kind="file"
+   committed-date="2013-10-20T17:01:42.220000Z"/>
+<entry
+   name="tree.py"
+   revision="8264"
+   checksum="f9b7d679f4f6d1dc6722c61b161ffab1"
+   last-author="bpratap"
+   text-time="2013-11-13T12:37:42.000000Z"
+   committed-rev="8264"
+   kind="file"
+   committed-date="2013-11-18T18:57:00.112000Z"/>
+<entry
+   name="utils.py"
+   revision="8264"
+   checksum="6cdcd264361df8d0d825e6ac4345aa52"
+   last-author="bpratap"
+   committed-rev="8264"
+   text-time="2013-11-14T10:36:25.000000Z"
+   kind="file"
+   committed-date="2013-11-18T18:57:00.112000Z"/>
+</wc-entries>
